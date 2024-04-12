@@ -1,2 +1,3 @@
 # Lab8VersionControl
-Version control lab for CS62 w/ Ari and Leo
+Lab8 Version Control 
+Members: Ari and Leo
